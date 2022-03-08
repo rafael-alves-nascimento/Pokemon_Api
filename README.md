@@ -8,7 +8,7 @@ Dentro do site há um botao de pesquisa onde o usuário pode digitar o nome ou o
 
 apos digitar o nome ou id do pokemon é acionado o javascript da página onde é alterado para mostrar as informações do pokemon na página:
 
-![pikachu-id](https://user-images.githubusercontent.com/91340095/157311988-fea91df5-2d48-43c5-97f7-ee908d205531.PNG)  ![pikachu](https://user-images.githubusercontent.com/91340095/157312039-620030ee-1601-4bb3-9478-96faf6219c0f.PNG)
+![pikachu-id](https://user-images.githubusercontent.com/91340095/157311988-fea91df5-2d48-43c5-97f7-ee908d205531.PNG)      ![pikachu](https://user-images.githubusercontent.com/91340095/157312039-620030ee-1601-4bb3-9478-96faf6219c0f.PNG)
 
 
 https://rafael-alves-nascimento.github.io/pokemon-api/
