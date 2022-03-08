@@ -12,4 +12,4 @@ apos digitar o nome ou id do pokemon é acionado o javascript da página onde é
 
 
 
-https://rafael-alves-nascimento.github.io/pokemon-api/
+github pages: https://rafael-alves-nascimento.github.io/pokemon-api/
